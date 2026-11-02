@@ -12,7 +12,7 @@ Soy estudiante de Ingeniería de Sistemas Informáticos en la Universidad de El 
 ### 🚀 Proyectos Recientes
 
 * **[TinderTrueques](https://github.com/ralex1945/TinderTrueques):** Plataforma web diseñada para facilitar el intercambio y trueque de artículos.
-* **[PPI_Proyect](https://github.com/PoccornCode/PPI_Proyect):** Sistema de subastas en línea C2C desarrollado con PHP y PostgreSQL, con base de datos normalizada.
+* **[PPI_Proyect](https://github.com/PoccornCode/PPI_Proyect):** Sistema de subastas en línea C2C desarrollado con PHP y mysql
 * **[Sistema de Agua Estudiante](https://github.com/ralex1945/sistema-agua-estudiante):** Proyecto académico (Poseidón) para la administración de sistemas de agua potable comunitaria.
 * **Sistemas de Inventario:** Desarrollo de aplicaciones de escritorio ("NeverIA" y ferreterías) implementando Java Swing, árboles AVL y reportes con Jaspersoft.
 
