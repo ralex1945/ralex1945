@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Ricardo Villalta (@ralex1945)
 
-<!--
-**ralex1945/ralex1945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas Informáticos en la Universidad de El Salvador (FMP).
 
-Here are some ideas to get you started:
+### 💻 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Desarrollo:** Java (Swing, MVC), PHP, JavaScript, HTML, CSS
+* **Bases de Datos:** PostgreSQL, SQL Server, Oracle Database (PL/SQL), mySQL
+* **Infraestructura y Entornos:** Docker, Ubuntu Server, VirtualBox, XAMPP
+* **Herramientas:** Git, GitHub Desktop, VS Code, Apache NetBeans, Jaspersoft Studio, Bizagi Modeler
+
+### 🚀 Proyectos Recientes
+
+* **[TinderTrueques](https://github.com/ralex1945/TinderTrueques):** Plataforma web diseñada para facilitar el intercambio y trueque de artículos.
+* **[PPI_Proyect](https://github.com/PoccornCode/PPI_Proyect):** Sistema de subastas en línea C2C desarrollado con PHP y PostgreSQL, con base de datos normalizada.
+* **[Sistema de Agua Estudiante](https://github.com/ralex1945/sistema-agua-estudiante):** Proyecto académico (Poseidón) para la administración de sistemas de agua potable comunitaria.
+* **Sistemas de Inventario:** Desarrollo de aplicaciones de escritorio ("NeverIA" y ferreterías) implementando Java Swing, árboles AVL y reportes con Jaspersoft.
+
+### 📍 Conecta conmigo
+* 🌍 San Vicente, El Salvador.
+* 📧 Contáctame: r1646070@gmail.com
